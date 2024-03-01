@@ -27,5 +27,6 @@ public class Boutique implements Serializable {
     @JsonIgnore
     @ManyToMany
     List<Client> clients;
+    //dhskhqd
 }
 
